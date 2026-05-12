@@ -138,21 +138,22 @@ II. Chạy mobile
 Email : admin@gmail.com
 mật khẩu : 1234
 ## Hình ảnh minh họa hệ thống
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/15b4b24e-4b66-4a4c-b21c-748dc134a818" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/dc432895-6c48-4f3c-ba99-63f566ce4dcc" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/836389d4-fe89-4856-9bcf-399a135002ce" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/8b46a2b1-52ef-434c-9c72-9b8f7bdc10d2" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/01ec24f8-39f4-4ab7-b051-a3cf17a175c9" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4fc22fa6-c9fc-4126-a031-b192f19ac9e5" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a61de76b-01da-425a-8d2b-616140a3c9a0" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a66986d0-7e9a-4b2a-87dc-546dca6f1fec" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/09e8da3a-e865-4a48-b954-825b792882e1" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/a230cf58-645e-4318-a09c-b3c3549c44ca" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/94c62e17-b37e-445b-a4c7-71f7770733e8" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/43c2550a-d342-4d16-ae3a-4af1ec9bab8e" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/f18cfb53-f68d-447a-9ae7-0a168af0cd90" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d0ba5b0d-9463-42ab-907b-b6675c62d120" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/c0332940-1142-4611-9072-466c09e062a3" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/8e3619f6-3280-43e2-bf20-d078db3aac85" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4b405209-658c-435a-9604-3c5366b4f2aa" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d063b960-d130-4c99-bbce-0f267381826d" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4bea8c53-5d93-4248-a004-abba33eaa0aa" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/352c5308-3cab-4bf8-980b-18c50ca85998" />
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/5583db91-576c-4c59-9eee-fedc0f5f6c8d" />
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/ba9e1bb8-3dda-4306-855c-0b3d308c8eb5" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/ad418101-d712-4356-a529-23191dc339e9" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/0df81d17-7ed8-411a-9e0f-516f6cd3ad3d" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/ca92c4ed-3590-4afc-9a7a-ce9a7851a199" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d1916dc6-772c-4656-aa60-09072c030d2b" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/9f2fc9ce-215f-4337-ac53-80041558e78c" />
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/4dd8bc27-e02f-4935-9df4-cbe469141b44" />
-![Uploading image.png…]()
 ## Video DEMO
 
 https://drive.google.com/drive/folders/1H-ETObOIX22Ef8hkBDMmI1q_p4Furyev?fbclid=IwY2xjawRv_aRleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAEwAAEe3KO6OYsF7B9_XqAJbG3Cf98bvpIzHWvREtTT9bxAHqwmi5QZdiayp6Ldu9c_aem_T30mAM_eRe7wrK4Y2H-ADw
